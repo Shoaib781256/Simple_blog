@@ -67,3 +67,45 @@ This is a PHP-based web application that allows users to create, read, update, a
 
 - Use the "Edit" and "Delete" options for post management.
 
+# output
+- Login Page Screenshot
+<img width="960" alt="Login Page Screenshot" src="https://github.com/user-attachments/assets/e965787a-9f2c-4c4c-855c-2d0fc40c9b65">
+
+- After Login Screenshot
+<img width="960" alt="After Login Screenshot" src="https://github.com/user-attachments/assets/f079dbd1-8ee6-44ac-a6bc-ce51774a000c">
+
+- Create New Post Screenshot
+<img width="960" alt="Create New Post Screenshot" src="https://github.com/user-attachments/assets/a56ec15b-7caf-4d4a-81e3-5710ff308be9">
+
+- After Created New Post Screenshot
+<img width="960" alt="Created New Post Screenshot" src="https://github.com/user-attachments/assets/6c093e5d-c2f0-4c91-acd4-c82f8143446a">
+
+- Edit Existing Post Screenshot
+<img width="960" alt="Edit Existing Post Screenshot" src="https://github.com/user-attachments/assets/16265d7f-84d5-4e8d-b84e-3ed542dc213b">
+
+- After Editing Screenshot
+<img width="948" alt="After Editing Screenshot" src="https://github.com/user-attachments/assets/1b1080ad-5353-462a-a1d0-b10554fc6d9a">
+
+- Delete Post Screenshot
+<img width="959" alt="Delete Post Screenshot" src="https://github.com/user-attachments/assets/f59984e1-f81c-416e-ac42-cc891c515a79">
+
+- View Post Screenshot
+<img width="960" alt="View Post Screenshot" src="https://github.com/user-attachments/assets/70c4a89d-3a9c-4d10-8166-d78cec651bd8">
+
+- View website and Header Screenshot
+<img width="942" alt="View website and Header Screenshot" src="https://github.com/user-attachments/assets/b9bdeca7-efef-4194-8027-6ac8f67b67d2">
+
+- View website and Footer Screenshot
+<img width="947" alt="View website and Footer Screenshot" src="https://github.com/user-attachments/assets/dfae8e61-6fc4-4bad-b607-db137c1dce96">
+
+- After press Read More button Screenshot
+<img width="960" alt="After press Read More button Screenshot" src="https://github.com/user-attachments/assets/75d8ec2d-b83d-4732-b9db-d27962223dc2">
+
+
+
+
+
+
+
+
+
