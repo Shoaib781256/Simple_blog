@@ -67,6 +67,17 @@ This is a PHP-based web application that allows users to create, read, update, a
 
 - Use the "Edit" and "Delete" options for post management.
 
+## Login Information 
+
+To access the blog system, use the following credentials on the login page :
+
+- Username : admin
+
+- Password : 123
+
+You can change these credentials later by modifying the database or updating the user management system.
+
+
 # output
 - Login Page Screenshot
 <img width="960" alt="Login Page Screenshot" src="https://github.com/user-attachments/assets/e965787a-9f2c-4c4c-855c-2d0fc40c9b65">
