@@ -51,7 +51,7 @@ This is a PHP-based web application that allows users to create, read, update, a
     $servername = "localhost";
     $username = "root";
     $password = "";
-    $dbname = "blog_db";
+    $dbname = "cms";
 ```
 ## 4 . Run the Application :
 - Start your PHP server (XAMPP or similar).
