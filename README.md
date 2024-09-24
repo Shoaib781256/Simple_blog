@@ -77,6 +77,10 @@ To access the blog system, use the following credentials on the login page :
 
 You can change these credentials later by modifying the database or updating the user management system.
 
+## Project Report
+You can download the full project report here:  
+[Download Project Report]()
+
 
 # output
 - Login Page Screenshot
