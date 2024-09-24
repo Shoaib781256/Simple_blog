@@ -79,7 +79,7 @@ You can change these credentials later by modifying the database or updating the
 
 ## Project Report
 You can download the full project report here:  
-[Download Project Report](https://github.com/Shoaib781256/Simple/Project_documentblog.git )
+[Download Project Report]( https://github.com/Shoaib781256/Simple_blog.git)
 
 
 # output
