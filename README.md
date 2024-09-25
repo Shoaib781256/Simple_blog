@@ -116,6 +116,9 @@ You can download the full project report here:
 - After press Read More button Screenshot
 <img width="960" alt="After press Read More button Screenshot" src="https://github.com/user-attachments/assets/75d8ec2d-b83d-4732-b9db-d27962223dc2">
 
+- Database Screenshot
+<img width="948" alt="Screenshot 2024-09-25 135031" src="https://github.com/user-attachments/assets/0da9602b-4e85-49d2-b938-56c4e33b4ceb">
+
 
 
 
